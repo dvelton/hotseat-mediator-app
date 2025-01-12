@@ -1,6 +1,6 @@
-import * as React from "react";
-import { createRoot } from "react-dom/client";
-import { SparkApp, PageContainer, Card, Button, Input, Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription, DialogFooter, DialogClose } from "@github/spark/components";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
 
 function App() {
   // State variables
