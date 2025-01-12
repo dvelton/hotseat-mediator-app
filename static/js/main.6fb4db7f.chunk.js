@@ -1,0 +1,2 @@
+(this["webpackJsonphotseat-mediator-app"]=this["webpackJsonphotseat-mediator-app"]||[]).push([[0],{4:function(t,e,n){"use strict";n.r(e);n(0);var o=n(3),a=n.n(o),c=(n(9),n(2));function r(){return Object(c.jsx)("h1",{children:"Hello, React!"})}a.a.render(Object(c.jsx)(r,{}),document.getElementById("root"))},9:function(t,e,n){}},[[4,1,2]]]);
+//# sourceMappingURL=main.6fb4db7f.chunk.js.map
