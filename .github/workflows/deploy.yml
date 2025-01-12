@@ -23,13 +23,6 @@ jobs:
       - name: Build the project
         run: npm run build
 
-      - name: Debugging info
-        run: |
-          echo "Current directory:"
-          pwd
-          echo "List of files:"
-          ls -al
-
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
